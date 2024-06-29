@@ -22,7 +22,7 @@ Anime Vault is a web application that allows users to explore and discover their
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Dakshesh1234/Anime-no-Kura.git
+git clone [https://github.com/Dakshesh1234/Anime-no-Kura.git](https://github.com/Dakshesh1234/Anime-no-Kura)
 ```
 
 2. Navigate to the project directory:
