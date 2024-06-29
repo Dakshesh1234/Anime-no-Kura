@@ -28,7 +28,7 @@ git clone https://github.com/Dakshesh1234/Anime-no-Kura.git
 2. Navigate to the project directory:
 
 ```bash
-cd anime-vault
+cd Anime-no-Kura
 ```
 
 3. Install the dependencies:
