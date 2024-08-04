@@ -6,7 +6,7 @@ import Footer from '@/components/Footer';
 const dmSans = DM_Sans({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Anime no Kurat",
+  title: "Anime no Kura",
   description: "Your favorite anime, all in one place.",
 }
 
